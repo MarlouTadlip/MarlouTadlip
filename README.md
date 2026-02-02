@@ -1,5 +1,7 @@
 Welcome to my GitHub! Here are some of the projects I’ve built. Check them out live or explore the code.
 
+Resume: https://github.com/MarlouTadlip/resume/blob/main/RESUMEREAL.pdf
+
 🌐 Projects
 
 🔹 BlueWave Nine
