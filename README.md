@@ -8,7 +8,7 @@ Resume: https://github.com/MarlouTadlip/resume/blob/main/RESUMEREAL.pdf
 
 🔗 Live Site: https://bluewave-nine.vercel.app/
 
-💻 Built with: (ext.js, Tailwind CSS, Prisma, Prisma Postgres)
+💻 Built with: (Next.js, Tailwind CSS, Prisma, Prisma Postgres)
 📌 Description: A volunteer-driven coastal cleanup system.
 
 🔹 Rent-PH
