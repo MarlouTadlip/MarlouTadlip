@@ -29,7 +29,7 @@ A simple food ordering app with a clean user interface.
 
 ---
 
-## 🏢 Internship — CAMII CMS
+## 🏢 Internship — Cebu Ace-Maritime International Inc.
 
 **Project:** Crew Management System for a Ship Manning Agency
 
