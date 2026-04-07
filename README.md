@@ -2,7 +2,7 @@
 
 Software Developer · Building meaningful systems from the ground up.
 
-📄 **Resume:** [View PDF](https://github.com/MarlouTadlip/resume/blob/main/RESUMEREAL.pdf)
+📄 **Resume:** [View PDF](https://github.com/MarlouTadlip/resume/blob/main/RESUME_TADLIP.pdf)
 
 ---
 
