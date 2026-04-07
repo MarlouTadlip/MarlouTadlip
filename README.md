@@ -1,4 +1,4 @@
-# Marlow Tadlip
+# Marlou Tadlip
 
 Software Developer · Building meaningful systems from the ground up.
 
